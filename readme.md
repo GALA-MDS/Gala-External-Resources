@@ -1,4 +1,4 @@
-# CHIST ERA 2025 Proposal - Multi-dataset Multi-lingual System
+# CHIST ERA 2025 Proposal - GALA
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -6,7 +6,7 @@ This repository compiles and organizes three distinct but synergistic data sourc
 
 The sources include:
 
-- **Disaster Dataset:** Scraped from [ReliefWeb](https://reliefweb.int) and parsed using an LLM (GPT-4) into a structured case-base format.
+- **Disaster Dataset:** Scraped from [ReliefWeb](https://reliefweb.int) and parsed using an LLM (GPT-4o) into a structured case-base format.
 - **Multilingual Embedding Rankings:** A CSV summary benchmarking current state-of-the-art multilingual embedding models.
 - **Radiography Medical Usecase:** A comprehensive medical imaging dataset built from data sourced from [MedPix](https://medpix.nlm.nih.gov/) and the [VQA-RAD Dataset](https://paperswithcode.com/dataset/vqa-rad), used to support advanced diagnostic and analysis tools in radiography.
 
@@ -19,7 +19,7 @@ This repository not only details the data collection and processing methods but 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
-  <img src="https://img.shields.io/badge/GPT-4-FF5722?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4">
+  <img src="https://img.shields.io/badge/GPT_4o-FF5722?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-4o">
   
 </div>
 
