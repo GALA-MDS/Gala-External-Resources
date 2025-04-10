@@ -2,20 +2,36 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository compiles and organizes three distinct but synergistic data sources created for the CHIST ERA 2025 proposal. Our goal is to lay the groundwork for an advanced multi-lingual framework that goes beyong the general trends of state-of-the-art models seem today. These sources could potentially serve as a stepping stone to get our goal.
 
-The sources include:
+This repository compiles and organizes three distinct but synergistic data sources created for the CHIST ERA 2025 proposal **GALA**. Our goal is to lay the groundwork for an advanced multi-lingual, multi-modal framework that transcends current state-of-the-art techniques, paving the way for globally accessible and locally actionable decision support systems. The integrated data sources serve as supplementary resources for processing disaster management, multilingual scientific evidence, and medical imaging data.
+
+---
+
+## Project Overview
+
+**Project Acronym:** GALA  
+**Project Title:** Globally Accessible and Locally Actionable Multilingual Scientific and Experiential Knowledge Sharing for Decision Support
+
+**Coordinator Contact Point:**  
+- **Name:** Belén Díaz-Agudo  
+- **Institution:** Facultad de Informática, Universidad Complutense de Madrid (UCM)  
+- **Location:** Madrid, Spain  
+- **Email:** belend@ucm.es  
+- **Phone:** +34 913947558  
+- **Funding Organisation:** AEI
+
+---
+## Data Sources
 
 - **Disaster Dataset:** Scraped from [ReliefWeb](https://reliefweb.int) and parsed using an LLM (GPT-4o) into a structured case-base format.
 - **Multilingual Embedding Rankings:** A CSV summary benchmarking current state-of-the-art multilingual embedding models.
 - **Radiography Medical Usecase:** A comprehensive medical imaging dataset built from data sourced from [MedPix](https://medpix.nlm.nih.gov/) and the [VQA-RAD Dataset](https://paperswithcode.com/dataset/vqa-rad), used to support advanced diagnostic and analysis tools in radiography.
 
-This repository not only details the data collection and processing methods but also explains how each dataset supports a multi-lingual, multi-modal system with potential for future expansion.
+This repository contains details of the data collection and processing methods utilised.
 
 ---
 
-## Technologies
-
+## Technologies 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
@@ -26,7 +42,7 @@ This repository not only details the data collection and processing methods but 
 ---
 
 
-## Folder Structure & Dataset Overview
+#### Folder Structure Overview
 
 ```plaintext
 
@@ -38,9 +54,6 @@ This repository not only details the data collection and processing methods but 
 │       │   cbr_casebase_dict.json
 │       │   disaster_details.json           # Detailed disaster descriptions and metadata
 │       │
-│       └───.ipynb_checkpoints
-│               cbr_casebase_dict-checkpoint.json
-│               disaster_details-checkpoint.json
 │
 ├───Multilingual_Embedding_Rankings
 │       Multi_Lingual_Embedding_Model_Ranking_2025_March.csv  # Summary CSV for multilingual embedding models
@@ -84,4 +97,4 @@ This repository not only details the data collection and processing methods but 
             │   synpic676.jpg
             │   synpic9872.jpg
 
-
+```
