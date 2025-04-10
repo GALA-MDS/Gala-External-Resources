@@ -42,7 +42,7 @@ This repository contains details of the data collection and processing methods u
 ---
 
 
-#### Folder Structure Overview
+## Folder Structure Overview
 
 ```plaintext
 
