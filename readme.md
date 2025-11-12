@@ -1,4 +1,4 @@
-# CHIST ERA 2025 Proposal - GALA
+# GALA - Globally Accessible and Locally Actionable Multilingual Scientific and Experiential Knowledge Sharing for Decision Support
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
