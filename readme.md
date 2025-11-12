@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
 This repository compiles and organizes three distinct but synergistic data sources created for **GALA**. Our goal is to lay the groundwork for an advanced multi-lingual, multi-modal framework that transcends current state-of-the-art techniques, paving the way for globally accessible and locally actionable decision support systems. The integrated data sources serve as supplementary resources for processing disaster management, multilingual scientific evidence, and medical imaging data.
 
 ---
