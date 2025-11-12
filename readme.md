@@ -13,12 +13,10 @@ This repository compiles and organizes three distinct but synergistic data sourc
 **Project Title:** Globally Accessible and Locally Actionable Multilingual Scientific and Experiential Knowledge Sharing for Decision Support
 
 **Coordinator Contact Point:**  
-- **Name:** Belén Díaz-Agudo  
-- **Institution:** Facultad de Informática, Universidad Complutense de Madrid (UCM)  
-- **Location:** Madrid, Spain  
-- **Email:** belend@ucm.es  
-- **Phone:** +34 913947558  
-- **Funding Organisation:** AEI
+- **Name:** Professor Nirmalie Wiratunga
+- **Institution:** School of Computing, Engineering and Technology, Robert Gordon University 
+- **Location:** Aberdeen, UK
+- **Email:** n.wiratunga@rgu.ac.uk
 
 ---
 ## Data Sources
